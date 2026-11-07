@@ -1,0 +1,4 @@
+# Cách sử dụng dashboard và luồng nghiệp vụ
+@tags: dashboard, sử dụng, luồng, trang, thẩm định, tối ưu, nhật ký, trợ lý, agentic
+
+Luồng sử dụng chuẩn của dashboard: (1) Nhập dữ liệu: tải CSV hồ sơ mới để chấm điểm lô, hoặc CSV giao dịch để ghép điểm sẵn và chạy MILP; (2) Thẩm định: tra cứu một khách theo mã, xem P(default), tầng, hạn mức gợi ý, yếu tố SHAP và PII đã che; (3) Tối ưu vốn: đặt quỹ, trần rủi ro, LGD rồi chạy MILP, xem phương án và bấm ghi nhật ký để tạo batch; (4) Danh mục/Tổng quan: theo dõi KPI theo kỳ (số giao dịch, giá trị, P trung bình, tỷ lệ High, tỷ lệ duyệt, nợ xấu dự đoán/thật, phí MDR); (5) Đánh giá: đối chiếu baseline B0–B3, công bằng, độ nhạy; (6) Nhật ký: xem các batch quyết định; (7) Trợ lý: hỏi đáp dựa trên FACTS. Trợ lý Agent bổ sung chế độ chạy nhiều bước: phân loại ý định → gọi công cụ → tổng hợp, kèm trace hiển thị từng bước và nguồn trích dẫn từ corpus tài liệu Phase 2.

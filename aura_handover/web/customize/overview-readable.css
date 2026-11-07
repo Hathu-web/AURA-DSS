@@ -1,0 +1,21 @@
+/* TUY CHON: dan vao CUOI web/src/reference.css, sau tat ca @media.
+   File nay chua duoc nap tu dong. */
+.overview-story .executive-card-header { flex-wrap: wrap; }
+.overview-story .executive-card-header h3 { font-size: 14px; line-height: 1.4; }
+.overview-story .executive-card-header p { font-size: 11px; line-height: 1.45; }
+.overview-story .priority-copy h4 { font-size: 13px; line-height: 1.4; }
+.overview-story .priority-copy p { font-size: 12px; line-height: 1.5; }
+.overview-story .priority-action { font-size: 10px; }
+.overview-story .insight-scope,
+.overview-story .leaderboard-footer { font-size: 10px; line-height: 1.5; }
+.overview-story .merchant-table { font-size: 12px; height: auto; }
+.overview-story .merchant-table th { font-size: 11px; padding: 8px 6px; }
+.overview-story .merchant-table td { padding: 8px 6px; }
+.overview-story .high-share { font-size: 11px; }
+.overview-story .review-pill { font-size: 10px; }
+/* Chu lon can them khong gian: the tu gian, trang co the cuon doc. */
+.overview-story .overview-actions > .executive-card { height: auto; min-height: 300px; }
+.overview-story .priorities-list { flex: none; }
+.overview-story .priority-item { flex: none; min-height: auto; padding: 12px 0; }
+.overview-story .overview-charts > .executive-card { height: auto; min-height: 300px; }
+.overview-story .labeled-chart { flex: none; height: 220px; }

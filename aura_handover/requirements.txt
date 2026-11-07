@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+pandas
+numpy
+lightgbm
+shap
+PuLP==3.3.2
+google-genai
+gdown
+openpyxl

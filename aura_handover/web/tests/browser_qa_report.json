@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Tổng quan V2: KPI khớp API",
+    "pass": true
+  },
+  {
+    "name": "Đổi kỳ cập nhật KPI, giữ backtest độc lập",
+    "pass": true
+  },
+  {
+    "name": "Tổng quan drilldown merchant và giữ kỳ lọc",
+    "pass": true
+  },
+  {
+    "name": "Danh mục lọc merchant/tầng rồi mở đúng hồ sơ",
+    "pass": true
+  },
+  {
+    "name": "Thẩm định ID trả điểm và SHAP",
+    "pass": true
+  },
+  {
+    "name": "Đổi mã hồ sơ xóa kết quả cũ",
+    "pass": true
+  },
+  {
+    "name": "Thẩm định hồ sơ form hoạt động",
+    "pass": true
+  },
+  {
+    "name": "Tối ưu trả kết quả và ghi đúng solver DEMO",
+    "pass": true,
+    "selected": 309
+  },
+  {
+    "name": "Đổi quỹ khóa ghi kết quả cũ",
+    "pass": true
+  },
+  {
+    "name": "Phân tích độ nhạy và biểu đồ hai trục",
+    "pass": true
+  },
+  {
+    "name": "Ghi đề xuất một lần, chuyển đúng batch",
+    "pass": true
+  },
+  {
+    "name": "Nhật ký khớp số dòng API",
+    "pass": true,
+    "count": 1000
+  },
+  {
+    "name": "Audit dùng đúng schema và ẩn giá trị nhận diện trong fixture",
+    "pass": true
+  },
+  {
+    "name": "Nhật ký lỗi và thử lại",
+    "pass": true
+  },
+  {
+    "name": "Đánh giá: AUC thiếu tách tham chiếu; quỹ và fairness cập nhật",
+    "pass": true
+  },
+  {
+    "name": "AI fallback, mã khách hàng và kỳ câu hỏi được giữ chính xác",
+    "pass": true
+  },
+  {
+    "name": "SQL/cảnh báo phản hồi mới và bảng cũ được gắn đúng câu hỏi",
+    "pass": true
+  },
+  {
+    "name": "AI có thể thử lại sau lỗi API",
+    "pass": true
+  },
+  {
+    "name": "Upload hồ sơ thật qua DEMO, đánh số dòng từ 1",
+    "pass": true
+  },
+  {
+    "name": "Đổi loại tệp xóa kết quả; lô DEMO báo đúng giới hạn",
+    "pass": true
+  },
+  {
+    "name": "Upload từ chối xls/trên5MB và cho chọn lại CSV",
+    "pass": true
+  },
+  {
+    "name": "/danh-muc 1440px",
+    "pass": true,
+    "width": 1440,
+    "root": 1440
+  },
+  {
+    "name": "/danh-muc 1366px",
+    "pass": true,
+    "width": 1366,
+    "root": 1366
+  },
+  {
+    "name": "/danh-muc 390px",
+    "pass": true,
+    "width": 390,
+    "root": 390
+  },
+  {
+    "name": "/tham-dinh 1440px",
+    "pass": true,
+    "width": 1440,
+    "root": 1440
+  },
+  {
+    "name": "/tham-dinh 1366px",
+    "pass": true,
+    "width": 1366,
+    "root": 1366
+  },
+  {
+    "name": "/tham-dinh 390px",
+    "pass": true,
+    "width": 390,
+    "root": 390
+  },
+  {
+    "name": "/toi-uu 1440px",
+    "pass": true,
+    "width": 1440,
+    "root": 1440
+  },
+  {
+    "name": "/toi-uu 1366px",
+    "pass": true,
+    "width": 1366,
+    "root": 1366
+  },
+  {
+    "name": "/toi-uu 390px",
+    "pass": true,
+    "width": 390,
+    "root": 390
+  },
+  {
+    "name": "/danh-gia 1440px",
+    "pass": true,
+    "width": 1440,
+    "root": 1440
+  },
+  {
+    "name": "/danh-gia 1366px",
+    "pass": true,
+    "width": 1366,
+    "root": 1366
+  },
+  {
+    "name": "/danh-gia 390px",
+    "pass": true,
+    "width": 390,
+    "root": 390
+  },
+  {
+    "name": "/tro-ly 1440px",
+    "pass": true,
+    "width": 1440,
+    "root": 1440
+  },
+  {
+    "name": "/tro-ly 1366px",
+    "pass": true,
+    "width": 1366,
+    "root": 1366
+  },
+  {
+    "name": "/tro-ly 390px",
+    "pass": true,
+    "width": 390,
+    "root": 390
+  },
+  {
+    "name": "/nhap-du-lieu 1440px",
+    "pass": true,
+    "width": 1440,
+    "root": 1440
+  },
+  {
+    "name": "/nhap-du-lieu 1366px",
+    "pass": true,
+    "width": 1366,
+    "root": 1366
+  },
+  {
+    "name": "/nhap-du-lieu 390px",
+    "pass": true,
+    "width": 390,
+    "root": 390
+  },
+  {
+    "name": "/nhat-ky 1440px",
+    "pass": true,
+    "width": 1440,
+    "root": 1440
+  },
+  {
+    "name": "/nhat-ky 1366px",
+    "pass": true,
+    "width": 1366,
+    "root": 1366
+  },
+  {
+    "name": "/nhat-ky 390px",
+    "pass": true,
+    "width": 390,
+    "root": 390
+  },
+  {
+    "name": "Thuyết trình ẩn sidebar và chuyển bước",
+    "pass": true
+  },
+  {
+    "name": "Tổng quan V2 1920px",
+    "pass": true,
+    "width": 1920,
+    "root": 1920
+  },
+  {
+    "name": "Tổng quan V2 vẫn vừa 1920×900",
+    "pass": true
+  },
+  {
+    "name": "Tổng quan V2 1440px",
+    "pass": true,
+    "width": 1440,
+    "root": 1440
+  },
+  {
+    "name": "Tổng quan V2 vẫn vừa 1440×900",
+    "pass": true
+  },
+  {
+    "name": "Tổng quan V2 1366px",
+    "pass": true,
+    "width": 1366,
+    "root": 1366
+  },
+  {
+    "name": "Tổng quan V2 vẫn vừa 1366×768",
+    "pass": true
+  },
+  {
+    "name": "Tổng quan V2 390px",
+    "pass": true,
+    "width": 390,
+    "root": 390
+  },
+  {
+    "name": "CSS tăng chữ Tổng quan 1440px không tràn thẻ",
+    "pass": true,
+    "width": 1440,
+    "root": 1440,
+    "font": "12px",
+    "over": false
+  },
+  {
+    "name": "CSS tăng chữ Tổng quan 1366px không tràn thẻ",
+    "pass": true,
+    "width": 1366,
+    "root": 1366,
+    "font": "12px",
+    "over": false
+  },
+  {
+    "name": "CSS tăng chữ Tổng quan 390px không tràn thẻ",
+    "pass": true,
+    "width": 390,
+    "root": 390,
+    "font": "12px",
+    "over": false
+  },
+  {
+    "name": "Không có JavaScript pageerror trong toàn bộ kiểm tra",
+    "pass": true
+  }
+]

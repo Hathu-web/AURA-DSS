@@ -1,0 +1,4 @@
+# Hạn chế của hệ thống và dữ liệu
+@tags: hạn chế, synthetic, home credit, target, không phải dữ liệu thật, giới hạn, từ chối
+
+Hạn chế cần khai báo khi trình bày: (1) toàn bộ giao dịch BNPL trong dashboard là dữ liệu mô phỏng (synthetic) gắn nhãn từ TARGET của bộ Home Credit, không phải FPD thực tế của một doanh nghiệp BNPL; (2) AUC được báo cáo là kết quả holdout của notebook, không phải hiệu năng thời gian thực; (3) số đơn duyệt thay đổi theo seed và tham số quỹ/trần; (4) mô hình Thin-file thiếu metadata đầy đủ ở một số bản đóng gói, khi đó AUC Thin hiển thị là tham chiếu; (5) hệ thống hỗ trợ quyết định, người ra quyết định cuối cùng vẫn là cán bộ tín dụng. Câu hỏi ngoài các chủ đề trên (ví dụ tư vấn đầu tư, chứng khoán, tiền mã hoá, dữ liệu cá nhân thật) là ngoài phạm vi và trợ lý phải từ chối.
